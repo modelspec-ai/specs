@@ -1,0 +1,111 @@
+organizations:
+- link: https://grok.com/
+  name: xAI
+- link: https://chatgpt.com/
+  name: OpenAI
+- link: https://aistudio.google.com/prompts/new_chat
+  name: Google
+- link: https://chat.deepseek.com/
+  name: DeepSeek
+- link: https://chat.qwen.ai/
+  name: Alibaba
+- link: https://dashboard.cohere.com/
+  name: Cohere
+- link: https://open.bigmodel.cn/console/overview
+  name: Zhipu
+- link: https://platform.stepfun.com/
+  name: StepFun
+- link: https://yuanbao.tencent.com/chat/
+  name: Tencent
+- link: https://claude.ai/
+  name: Anthropic
+- link: https://www.01.ai/
+  name: 01 AI
+- link: https://nexusflow.ai/
+  name: NexusFlow
+- link: ''
+  name: Nvidia
+- link: https://www.meta.ai/
+  name: Meta
+- link: https://mistral.ai/
+  name: Mistral
+- link: https://console.aws.amazon.com/bedrock
+  name: Amazon
+- link: https://playground.allenai.org/
+  name: Ai2
+- link: https://www.reka.ai/
+  name: Reka AI
+- link: https://studio.ai21.com/
+  name: AI21 Labs
+- link: https://princeton-nlp.github.io/
+  name: Princeton
+- link: https://azure.microsoft.com/en-us/products/phi/
+  name: Microsoft
+- link: https://chat.intern-ai.org.cn/
+  name: InternLM
+- link: https://www.ibm.com/granite/playground/
+  name: IBM
+- link: https://huggingface.co/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1
+  name: HuggingFace
+- link: ''
+  name: Nexusflow
+- link: ''
+  name: Databricks
+- link: ''
+  name: AllenAI/UW
+- link: ''
+  name: OpenChat
+- link: ''
+  name: LMSYS
+- link: ''
+  name: Snowflake
+- link: ''
+  name: UC Berkeley
+- link: ''
+  name: NousResearch
+- link: ''
+  name: Cognitive Computations
+- link: ''
+  name: Upstage AI
+- link: ''
+  name: MosaicML
+- link: ''
+  name: TII
+- link: ''
+  name: UW
+- link: ''
+  name: Together AI
+- link: ''
+  name: Allen AI
+- link: ''
+  name: Tsinghua
+- link: ''
+  name: Nomic AI
+- link: ''
+  name: RWKV
+- link: ''
+  name: Stanford
+- link: ''
+  name: OpenAssistant
+- link: 'https://stability.ai/stable-assistant'
+  name: Stability AI
+- link: ''
+  name: AI2
+- link: ''
+  name: OpenGVLab
+- link: ''
+  name: Aliaba
+- link: ''
+  name: NVIDIA
+- link: ''
+  name: LLaVA
+- link: ''
+  name: OpenBMB
+- link: ''
+  name: Recraft
+- link: 'https://www.recraft.ai/auth/login'
+  name: Luma AI
+- link: ''
+  name: Black Forest Labs
+- link: ''
+  name: Ideogram
